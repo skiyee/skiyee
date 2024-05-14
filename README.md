@@ -1,4 +1,4 @@
-### 👋 Hey there, call me sky 😎
+### 👋 Hey there, I go by sky 😎
 
 前端切图仔、伪UI设计师、全干攻城狮
 
