@@ -31,4 +31,5 @@
 
 ### 💖 Sponsor
 
-如果我的工作帮助到了您，可以请我吃包[辣条](https://github.com/Skiyee/sponsors)，能够使我能量满满 ⚡
+如果我的工作帮助到了您，可以请我吃包辣条，能够使我能量满满 ⚡
+- [点这里请吃辣条](https://github.com/Skiyee/sponsors)
