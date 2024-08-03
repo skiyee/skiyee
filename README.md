@@ -35,6 +35,6 @@
 
 <p align="center">
   <a href="https://github.com/Skiyee/sponsors">
-    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/Skiyee/Skiyee/sponsors.svg"/>
+    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/Skiyee/Skiyee@main/sponsors.svg"/>
   </a>
 </p>
