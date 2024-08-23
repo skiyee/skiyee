@@ -36,7 +36,7 @@
 
 如果我的工作帮助到了您，可以请我吃辣条，使我能量满满 ⚡
 
-> 请留下您的Github用户名，以便生成赞赏版单，感谢 ❤
+> 请留下您的Github用户名，以便生成赞赏榜单，感谢 ❤
 
 <img src="https://cdn.jsdelivr.net/gh/Skiyee/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="320" />
 
