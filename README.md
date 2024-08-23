@@ -6,9 +6,13 @@
 
 ### 🧑‍💻 Team
 
-- [@uni-helper](https://github.com/uni-helper) team member
-- [@unocss-applet](https://github.com/unocss-applet) team member
-- [@claxjs](https://github.com/claxjs) creator
+- creator: 
+  <code><a href="https://github.com/uni-ku"><img height="40" src="https://avatars.githubusercontent.com/u/167429494"></a></code>
+  <code><a href="https://github.com/claxjs"><img height="40" src="https://avatars.githubusercontent.com/u/165544832"></a></code>
+
+- team member: 
+  <code><a href="https://github.com/uni-helper"><img height="40" src="https://avatars.githubusercontent.com/u/117957276"></a></code>
+  <code><a href="https://github.com/unocss-applet"><img height="40" src="https://avatars.githubusercontent.com/u/111227069"></a></code>
 
 ### 🚀 Learned
 
@@ -30,8 +34,11 @@
 
 ### 💖 Sponsor
 
-如果我的工作帮助到了您，可以请我吃包辣条，能够使我能量满满 ⚡
-- [点这里请吃辣条](https://github.com/Skiyee/sponsors) 👈
+如果我的工作帮助到了您，可以请我吃辣条，使我能量满满 ⚡
+
+> 请留下您的Github用户名，以便生成赞赏版单，感谢 ❤
+
+<img src="https://cdn.jsdelivr.net/gh/Skiyee/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="320" />
 
 <p align="center">
   <a href="https://github.com/Skiyee/sponsors">
