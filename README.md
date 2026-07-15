@@ -6,20 +6,24 @@
 
 ### 🧑‍💻 Team
 
-- creator: 
+- creator:
+  <code><a href="https://github.com/oiyojs"><img height="40" src="https://avatars.githubusercontent.com/u/190917000"></a></code>
   <code><a href="https://github.com/uni-ku"><img height="40" src="https://avatars.githubusercontent.com/u/167429494"></a></code>
   <code><a href="https://github.com/claxjs"><img height="40" src="https://avatars.githubusercontent.com/u/165544832"></a></code>
 
 - team member: 
   <code><a href="https://github.com/uni-helper"><img height="40" src="https://avatars.githubusercontent.com/u/117957276"></a></code>
+  <code><a href="https://github.com/wot-ui"><img height="40" src="https://avatars.githubusercontent.com/u/221806390"></a></code>
   <code><a href="https://github.com/unocss-applet"><img height="40" src="https://avatars.githubusercontent.com/u/111227069"></a></code>
 
 ### 🚀 Learned
 
 <code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-nuxt-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-tailwindcss-icon.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>&nbsp;
@@ -29,8 +33,6 @@
 
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nextjs-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-tailwindcss-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-nuxt-icon.svg"></code>&nbsp;
 
 ### 💖 Sponsor
 
@@ -42,6 +44,6 @@
 
 <p align="center">
   <a href="https://github.com/Skiyee/sponsors">
-    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/Skiyee/Skiyee@main/sponsors.svg"/>
+    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/skiyee/skiyee@main/sponsors.svg"/>
   </a>
 </p>
