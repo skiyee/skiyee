@@ -40,10 +40,10 @@
 
 > 请留下您的Github用户名，以便生成赞赏榜单，感谢 ❤
 
-<img src="https://cdn.jsdelivr.net/gh/Skiyee/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="320" />
+<img src="https://cdn.jsdelivr.net/gh/skiyee/sponsors/assets/wechat-pay.png" alt="wechat-pay" width="320" />
 
 <p align="center">
   <a href="https://github.com/Skiyee/sponsors">
-    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/skiyee/skiyee@main/sponsors.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/skiyee/skiyee/sponsors.svg" alt="sponsors" />
   </a>
 </p>
